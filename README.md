@@ -4,8 +4,6 @@
 
 ### Estudiante de Ingeniería Informática creando software útil con IA, datos y automatización
 
-Impulsado por la curiosidad. Alimentado por el café. ☕
-
 ![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia_Artificial-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
 ![Análisis de Datos](https://img.shields.io/badge/An%C3%A1lisis_de_Datos-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
 ![Automatización de Procesos](https://img.shields.io/badge/Automatizaci%C3%B3n_de_Procesos-00A67E?style=for-the-badge)
@@ -30,7 +28,7 @@ Soc estudiant de tercer curs d’Enginyeria Informàtica a la Universitat Jaume 
 ## Sobre mí
 
 - 🎓 Estudiante de tercer curso de **Ingeniería Informática** en la **Universitat Jaume I (UJI)**, con especialización en **Sistemas de Información**.
-- 💼 Compagino mis estudios con experiencia práctica en **Unidad**, donde estoy cerca de procesos administrativos reales y de sus oportunidades de mejora.
+- 💼 Compagino mis estudios con experiencia práctica en la asesoría/gestoría **Unidad**, donde estoy cerca de procesos administrativos reales y de sus oportunidades de mejora.
 - 🤖 Me interesan la IA aplicada, el análisis de datos, la automatización de procesos y el desarrollo asistido por IA.
 - 🛠️ Disfruto convirtiendo problemas concretos del día a día en soluciones de software prácticas.
 - 🌍 Me comunico en **castellano, catalán e inglés**.
