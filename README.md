@@ -1,22 +1,20 @@
-<div align="center">
+Hola, soy Daniel Prades 👋
 
-# Hi, I'm Daniel Prades 👋
+### Estudiante de Ingeniería Informática creando software útil con IA, datos y automatización
 
-### Computer Engineering student building useful software with AI, data and automation
+Impulsado por la curiosidad. Alimentado por el café. ☕
 
-Curiosity-powered. Coffee-fueled. ☕
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
-![Process Automation](https://img.shields.io/badge/Process_Automation-00A67E?style=for-the-badge)
-![Information Systems](https://img.shields.io/badge/Information_Systems-EF8354?style=for-the-badge)
+![Inteligencia Artificial](https://img.shields.io/badge/Inteligencia_Artificial-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![Análisis de Datos](https://img.shields.io/badge/An%C3%A1lisis_de_Datos-0A66C2?style=for-the-badge&logo=databricks&logoColor=white)
+![Automatización de Procesos](https://img.shields.io/badge/Automatizaci%C3%B3n_de_Procesos-00A67E?style=for-the-badge)
+![Sistemas de Información](https://img.shields.io/badge/Sistemas_de_Informaci%C3%B3n-EF8354?style=for-the-badge)
 
 </div>
 
 <details>
-<summary><strong>🇪🇸 Español</strong></summary>
+<summary><strong>🇬🇧 English</strong></summary>
 
-Soy estudiante de tercer curso de Ingeniería Informática en la Universitat Jaume I, especializado en Sistemas de Información. Me interesa aplicar la IA, el análisis de datos y la automatización para convertir problemas concretos en soluciones de software útiles. También trabajo en Unidad y estoy abierto a proyectos freelance y colaboraciones.
+I'm a third-year Computer Engineering student at Universitat Jaume I, specializing in Information Systems. I'm interested in applying AI, data analytics and automation to turn concrete problems into useful software solutions. I also work at Unidad and I'm open to freelance projects and collaborations.
 
 </details>
 
@@ -27,42 +25,42 @@ Soc estudiant de tercer curs d’Enginyeria Informàtica a la Universitat Jaume 
 
 </details>
 
-## About me
+## Sobre mí
 
-- 🎓 Third-year **Computer Engineering** student at **Universitat Jaume I (UJI)**, specializing in **Information Systems**.
-- 💼 Combining my studies with hands-on experience at **Unidad**, where I stay close to real administrative processes and opportunities for improvement.
-- 🤖 Interested in applied AI, data analytics, process automation and AI-assisted development.
-- 🛠️ I enjoy turning concrete, everyday problems into practical software solutions.
-- 🌍 I communicate in **Spanish, Catalan and English**.
-- 🤝 Open to **freelance projects**, **open-source collaborations** and meeting curious people in tech.
+- 🎓 Estudiante de tercer curso de **Ingeniería Informática** en la **Universitat Jaume I (UJI)**, con especialización en **Sistemas de Información**.
+- 💼 Compagino mis estudios con experiencia práctica en **Unidad**, donde estoy cerca de procesos administrativos reales y de sus oportunidades de mejora.
+- 🤖 Me interesan la IA aplicada, el análisis de datos, la automatización de procesos y el desarrollo asistido por IA.
+- 🛠️ Disfruto convirtiendo problemas concretos del día a día en soluciones de software prácticas.
+- 🌍 Me comunico en **castellano, catalán e inglés**.
+- 🤝 Estoy abierto a **proyectos freelance**, **colaboraciones open source** y a conocer personas curiosas del mundo tecnológico.
 
-## Featured projects
+## Proyectos destacados
 
-### ⚡ Electricity Bill Analyzer
+### ⚡ Analizador de facturas eléctricas
 
-A web app designed to analyze electricity bills and turn complex information into clearer, more useful insights.
+Una aplicación web diseñada para analizar facturas eléctricas y transformar información compleja en datos más claros y útiles.
 
-<!-- When available, add: [Live demo](YOUR_URL) · [Repository](YOUR_URL) -->
+<!-- Cuando estén disponibles, añade: [Demo](TU_URL) · [Repositorio](TU_URL) -->
 
-### 🏢 Property Management Workflow Portal
+### 🏢 Portal de gestión para administradores de fincas
 
-A web portal that helps property managers prepare meeting notices and draft minutes, streamlining repetitive administrative work.
+Un portal web que ayuda a preparar convocatorias y redactar actas, agilizando el trabajo administrativo repetitivo de los administradores de fincas.
 
-<!-- When available, add: [Live demo](YOUR_URL) · [Repository](YOUR_URL) -->
+<!-- Cuando estén disponibles, añade: [Demo](TU_URL) · [Repositorio](TU_URL) -->
 
-## What I'm exploring
+## Lo que estoy explorando
 
-- Practical applications of artificial intelligence
-- Data-driven decision-making
-- Automation of repetitive workflows
-- Rapid prototyping with AI-assisted development
-- Better information systems for real organizations
+- Aplicaciones prácticas de la inteligencia artificial
+- Toma de decisiones basada en datos
+- Automatización de flujos de trabajo repetitivos
+- Prototipado rápido mediante desarrollo asistido por IA
+- Mejores sistemas de información para organizaciones reales
 
-## Let's connect
+## Conectemos
 
-I'm always happy to meet recruiters, clients, open-source collaborators, fellow students and other people who enjoy building useful things.
+Siempre estoy encantado de conocer a reclutadores, clientes, colaboradores open source, otros estudiantes y personas que disfrutan creando cosas útiles.
 
-If you're working on something involving **AI, data or automation**, let's talk.
+Si estás trabajando en algo relacionado con **IA, datos o automatización**, hablemos.
 
 <div align="center">
 
@@ -70,6 +68,6 @@ If you're working on something involving **AI, data or automation**, let's talk.
 
 ---
 
-*Curiosity turns problems into projects. Coffee keeps them moving.* ☕
+*La curiosidad convierte los problemas en proyectos. El café los mantiene en marcha.* ☕
 
 </div>
