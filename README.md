@@ -42,12 +42,6 @@ Una aplicación web diseñada para analizar facturas eléctricas y transformar i
 
 <!-- Cuando estén disponibles, añade: [Demo](TU_URL) · [Repositorio](TU_URL) -->
 
-### 🏢 Portal de gestión para administradores de fincas
-
-Un portal web que ayuda a preparar convocatorias y redactar actas, agilizando el trabajo administrativo repetitivo de los administradores de fincas.
-
-<!-- Cuando estén disponibles, añade: [Demo](TU_URL) · [Repositorio](TU_URL) -->
-
 ## Lo que estoy explorando
 
 - Aplicaciones prácticas de la inteligencia artificial
